@@ -2,11 +2,12 @@ baseURL = "http://claygardner.io/"
 languageCode = "en-us"
 title = "Clay's Blog"
 theme = "hugo-theme-cactus-plus"
-disqusShortname = ""
+googleAnalytics = "UA-101953704-1"
+
 
 [params]
 	name = "Clay Gardner"
-	description = "Software engineering blog"
+	description = "Software Engineering Blog"
 	bio = "Self starting, product focused software engineer."
 	enableRSS = false
 
@@ -27,7 +28,7 @@ disqusShortname = ""
 	readMore = ""
 	copyright = " "
 	# Sharing options and author information in posts
-	aboutAuthor = "I write code."
+	aboutAuthor = "Self starting, product focused software engineer."
 	tweet = ""
 	share = ""
 	# 404 page
