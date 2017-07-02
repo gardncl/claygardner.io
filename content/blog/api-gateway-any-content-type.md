@@ -1,7 +1,7 @@
 ---
 title: "Using API Gateway with Content Type other than JSON"
 description: "How to accept a content type other than JSON with Amazon Web Service's API Gateway"
-date: 2017-07-02T22:06:22-04:00
+date: 2017-07-02T15:00:22-04:00
 tags: ["aws", "api-gateway"]
 ---
 
@@ -42,7 +42,7 @@ cp target/content-type-agnostic-starter-1.0-SNAPSHOT.jar ~/Desktop
 
 ### 3 - Add API Gateway POST Method
 
-When opening API Gateway you should see this:
+##### API Gateway should display this:
 
 ![API Gateway](/images/blog/api-gateway-any-content-type/api-gateway.png)
 
@@ -66,19 +66,23 @@ When opening API Gateway you should see this:
 ```
  7. Save it!
 
+##### Content type should have its own mapping:
+
 ![Mapping Template](/images/blog/api-gateway-any-content-type/mapping-template.png)
 
 
 ### 5 - Testing
  1. In the resources panel of your API select the "actions" dropdown and select "Deploy API"
  2. Create a new stage and call it "test"
- 3. This should open the stage editor. If it does not then navigate to this by selecting "Stages" of the left side panel and seleting our stage "test"
+ 3. This should open the stage editor. If it does not then navigate to this by selecting "Stages" of the left side panel and selecting our stage "test"
  4. Navigate to the export tab and export as your preferred method. I will be using Postman and JSON
  5. Enter a application/x-www-form-urlencoded string and see the result. The string I have tested this with uses percent encoding and is included with the companion code in "percent-encoding.txt"
 
-![API Gateway](/images/blog/api-gateway-any-content-type/request.png)
+##### Request:
+![Request](/images/blog/api-gateway-any-content-type/request.png)
 
-![API Gateway](/images/blog/api-gateway-any-content-type/response.png)
+##### Response:
+![Response](/images/blog/api-gateway-any-content-type/response.png)
 
 To change this working example to capture any other content type there are only three things that must be changed:
 
