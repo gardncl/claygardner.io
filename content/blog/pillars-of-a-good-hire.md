@@ -7,7 +7,7 @@ tags: ["job interviews"]
 
 Are you looking to break into the tech industry? Get out of that mindless software contracting job? This guide is for you!
 
-There are three pillars that I based my preparation for job interviews on recently that lead to multiple job offers--including one that doubled my base salary. I believe that working through these three pillars will make you a strong enough candidate to 'upgrade' your career one level. For example, being outside of the industry to getting your first development job. In my case I moved from a Jr. Engineer at a government contractor with a little over a year's experience to a Mid level engineer at a fast paced start up having only done about four months of preparation outside of work.
+Recently I was stuck in a dead end government contracting job--my first out of college. I decided that it wasn't for me and made a plan of attack to break into a far more challenging and rewarding position. These are the three pillars I based my preparation on that lead to multiple offers--including one that doubled my previous base salary. I believe that working through these three pillars will make you a strong enough candidate to 'upgrade' your career one level--at least while you are in the beginning of your career. For example, being outside of the industry (in college still or making a lateral move from another career) to getting your first development job. In my case I moved from a Jr. Engineer at a government contractor with a little over a year's experience to a Mid level engineer at a fast-paced, engineering-centered, small business having only done about four months of preparation outside of work.
 
 # Pillar One: Business Logic
 
