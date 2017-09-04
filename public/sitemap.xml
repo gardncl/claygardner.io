@@ -3,41 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://claygardner.io/blog/api-gateway-any-content-type/</loc>
+    <loc>https://claygardner.io/blog/pillars-of-a-good-hire/</loc>
+    <lastmod>2017-08-27T16:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claygardner.io/blog/api-gateway-any-content-type/</loc>
     <lastmod>2017-07-02T15:00:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://claygardner.io/tags/api-gateway/</loc>
-    <lastmod>2017-07-02T15:00:22-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://claygardner.io/about/</loc>
+    <lastmod>2017-06-11T16:02:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://claygardner.io/tags/aws/</loc>
-    <lastmod>2017-07-02T15:00:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://claygardner.io/blog/</loc>
+    <loc>https://claygardner.io/tags/api-gateway/</loc>
     <lastmod>2017-07-02T15:00:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://claygardner.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://claygardner.io/</loc>
+    <loc>https://claygardner.io/tags/aws/</loc>
     <lastmod>2017-07-02T15:00:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://claygardner.io/tags/</loc>
+    <loc>https://claygardner.io/blog/</loc>
+    <lastmod>2017-08-27T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claygardner.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claygardner.io/</loc>
+    <lastmod>2017-08-27T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claygardner.io/tags/job-interviews/</loc>
+    <lastmod>2017-08-27T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claygardner.io/tags/</loc>
     <lastmod>2017-07-02T15:00:22-04:00</lastmod>
     <priority>0</priority>
   </url>

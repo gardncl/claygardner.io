@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api Gateway on Clay&#39;s Blog</title>
-    <link>http://claygardner.io/tags/api-gateway/</link>
+    <link>https://claygardner.io/tags/api-gateway/</link>
     <description>Recent content in Api Gateway on Clay&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Sun, 02 Jul 2017 15:00:22 -0400</lastBuildDate>
     
-	<atom:link href="http://claygardner.io/tags/api-gateway/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://claygardner.io/tags/api-gateway/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using API Gateway with Content Type other than JSON</title>
-      <link>http://claygardner.io/blog/api-gateway-any-content-type/</link>
+      <link>https://claygardner.io/blog/api-gateway-any-content-type/</link>
       <pubDate>Sun, 02 Jul 2017 15:00:22 -0400</pubDate>
       
-      <guid>http://claygardner.io/blog/api-gateway-any-content-type/</guid>
+      <guid>https://claygardner.io/blog/api-gateway-any-content-type/</guid>
       <description>Amazon Web Services&amp;rsquo; API Gateway and Lambda are perfect for capturing webhooks. The only problem is when the webhook being captured uses something other than application/json as the content-type. Webhooks, or any type of request passing a payload, cannot deliver their data without some changes to your API Gateway.
 Let&amp;rsquo;s create a API Gateway endpoint that takes application/x-www-form-urlencoded and returns the same data formatted in application/json. The easiest way to do this is set up a lambda function as our backend that consumes and processes our raw data.</description>
     </item>

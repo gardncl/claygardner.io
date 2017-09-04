@@ -1,4 +1,4 @@
-baseURL = "http://claygardner.io/"
+baseURL = "https://claygardner.io/"
 languageCode = "en-us"
 title = "Clay's Blog"
 theme = "hugo-theme-cactus-plus"
